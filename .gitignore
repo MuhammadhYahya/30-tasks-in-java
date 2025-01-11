@@ -1,0 +1,5 @@
+# Ignore all .class files
+*.class
+
+# Optional: Ignore all files in a `bin/` directory (if applicable)
+bin/
